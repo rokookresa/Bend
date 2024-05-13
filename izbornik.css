@@ -1,7 +1,7 @@
-#bend li {
+#Bend li {
     display: inline; 
 }
-#jahaci {
+#Bend {
     color: #000;
     border-bottom: 2px solid #455372;
     margin-top: 50px;
@@ -11,7 +11,7 @@
     padding: 1px;
     padding-left: 30px;
 }
-#jahaci li a {
+#Bend li a {
     color: #000;
     background: #d9dbe1;
     border: 2px solid #455372;
@@ -19,16 +19,16 @@
     margin: 0px;
     text-decoration: none;
 }
-#jahaci li a:hover {
+#Bend li a:hover {
     border-bottom-color: white;
     background-color: #eee;
     color: #455372;
     }
-    #jahaci li a:active {
+    #Bend li a:active {
     color: #c00;
 }
 #aktivni {
     color: #000;
     background: #fff;
-    border-bottom-color: white;
+    border-bottom-color: red;
 }
